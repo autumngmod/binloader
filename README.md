@@ -7,6 +7,18 @@ In general, we can just make a bunch of identical if constructs that would check
 
 But why do that if you can just write one command that will make the modules load themselves?
 
+*join us on discord!*\
+<a href="https://discord.gg/HspPfVkHGh">
+  <img src="https://discordapp.com/api/guilds/1161025351099625625/widget.png?style=shield">
+</a>
+
+# Installation
+Via [libloader](https://github.com/autumngmod/libloader)
+```bash
+lib install autumngmod/binloader@0.1.0
+lib enable autumngmod/binloader@0.1.0
+```
+
 # Usage
 ```bash
 bin <add|remove> <name> # add/remove dependency
